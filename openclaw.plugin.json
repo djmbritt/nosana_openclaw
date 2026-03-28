@@ -1,0 +1,9 @@
+{
+  "id": "nosanaai-openclaw",
+  "name": "Nosana AI",
+  "description": "Create deployments and jobs on Nosana's decentralized compute",
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false
+  }
+}

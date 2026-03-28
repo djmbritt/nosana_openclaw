@@ -1,0 +1,21 @@
+{
+  "name": "@nosanaai/openclaw",
+  "version": "1.0.0",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "openclaw": {
+    "extensions": ["./index.ts"]
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@nosana/kit": "^2.2.4",
+    "@sinclair/typebox": "^0.34.49",
+    "openclaw": "^2026.3.24"
+  }
+}
